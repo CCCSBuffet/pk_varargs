@@ -1,2 +1,3 @@
-# pk_varargs
-Lesson (not project) on varargs - variadic functions
+# varargs
+
+This program demonstrates the use of varargs in the C-style. Please consult the source code for details.
